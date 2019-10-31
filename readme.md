@@ -13,10 +13,15 @@
 
 
 # 部署步骤
-python2.7  //Mac自带
-sudo easy_install pip //安装pip
-sudo pip install selenium==2.53.6  //安装selenium
-(环境搭配selenium2+Firefox46及以下版本兼容，selenium3+Firefox47+geckodriver)
+* python2.7  //Mac自带
+* sudo easy_install pip //安装pip
+* sudo pip install selenium==2.53.6  //安装selenium
+* (环境搭配selenium2+Firefox46及以下版本兼容，selenium3+Firefox47+geckodriver)
+
+# 项目地址
+```
+https://github.com/testervic/selenium.git
+```
 
 **命名行运行:**
 
