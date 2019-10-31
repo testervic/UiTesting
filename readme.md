@@ -16,6 +16,7 @@
 python2.7  //Mac自带
 sudo easy_install pip //安装pip
 sudo pip install selenium==2.53.6  //安装selenium
+(环境搭配selenium2+Firefox46及以下版本兼容，selenium3+Firefox47+geckodriver)
 
 **命名行运行:**
 
