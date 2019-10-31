@@ -7,7 +7,7 @@
 * 都是基于webdriver，大部分代码都可以通用，只是配置文件不一样
 * 邮件支持多人发送html的测试报告
 * 支持多线程
-* 支持Chrome和Frefox
+* 支持Chrome和Firefox
 * 支持测试截图保存
 * 找不到元素重试机制
 
